@@ -1,2 +1,3 @@
 Aca vamos a ver, vamos a subirlo solo a una rama, que seria la Rama de Walter y le quiero hacer merge a la rama demain
 1. Primer ajuste
+2. Segundo ajuste

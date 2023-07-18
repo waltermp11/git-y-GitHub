@@ -1,8 +1,13 @@
 1. Aca vamos a poner X cosa
 
+<<<<<<< HEAD
 2. Vamos a tener esta version y mas adelante vamos a agregar  el nombre del que esta creando ela rchivo, el cual seria yo.
 
 3. Aca vamos a tener nueva version de nuetro programa.
 
 4. otro renglon nada mas
 
+=======
+2. Vamos a tener esta version y mas adelante vamos a agregar  el nombre del que esta creando ela rchivo, el cual seria yo
+3. Ultima Version del Archivo.txt
+>>>>>>> a47074bc130a6e80c481286a4211e35adf415ff4

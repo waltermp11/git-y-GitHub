@@ -1,2 +1,3 @@
-Hola, esta es la prueba del archivo1.txt para subir cosas a mi repositorio
+Hola, esta es la prueba del archivo1.txt para subir cosas a mi repositorio.
+Tengo 22 years, pero no se ingles bien hehe.
 
